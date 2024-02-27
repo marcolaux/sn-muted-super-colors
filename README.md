@@ -1,0 +1,1 @@
+# sn-muted-super-colors
